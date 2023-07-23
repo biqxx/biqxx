@@ -1,6 +1,6 @@
 {
 biqxx: {
-  name: 'Biqxx',
+	name: 'Biqxx',
   value: 'A company/team dedicated to delivering the best project form your intrest wth the best team organisation', 
   func: 'team_projects',
   desc: 'A open repository for team to manage, contribute, and develop biqxx projects',
